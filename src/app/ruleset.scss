@@ -1,14 +1,21 @@
-
 .bg-white {
-    background-color: gainsboro;
+  background-color: gainsboro;
 }
 
 .w-100 {
-    width: 100%;
-    max-width: none;
+  width: 100%;
+  max-width: none;
 }
 
 .h-100 {
-    height: 100%;
-    max-height: none;
+  height: 100%;
+  max-height: none;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.p-absolute {
+  position: absolute;
 }
